@@ -1,0 +1,16 @@
+export const pagesRoutes = [
+  ["v-184f4da6","/intro.html",{"y":"p","t":"介绍页","i":"info"},["/intro","/intro.md"]],
+  ["v-8daa1a0e","/",{"y":"h","t":"主页","i":"home"},["/index.html","/README.md"]],
+  ["v-c00cb85c","/devEnv/nvm.html",{"c":["指南"],"e":"<h1> Nvm 安装与使用</h1>\n","y":"a","t":"Nvm 安装与使用","i":"tool"},["/devEnv/nvm","/devEnv/nvm.md"]],
+  ["v-6ce7f4e2","/start/buildblog.html",{"y":"a","t":"使用 vuepress-theme-hope","i":"tool"},["/start/buildblog","/start/buildblog.md"]],
+  ["v-0bba2201","/start/githubPage.html",{"y":"a","t":"Github Pages","i":"github"},["/start/githubPage","/start/githubPage.md"]],
+  ["v-3706649a","/404.html",{"y":"p","t":""},["/404"]],
+  ["v-72242504","/devEnv/",{"y":"p","t":"Dev Env"},["/devEnv/index.html"]],
+  ["v-d72a4774","/start/",{"y":"p","t":"Start"},["/start/index.html"]],
+  ["v-5bc93818","/category/",{"y":"p","t":"分类","I":0},["/category/index.html"]],
+  ["v-744d024e","/tag/",{"y":"p","t":"标签","I":0},["/tag/index.html"]],
+  ["v-e52c881c","/article/",{"y":"p","t":"文章","I":0},["/article/index.html"]],
+  ["v-154dc4c4","/star/",{"y":"p","t":"收藏","I":0},["/star/index.html"]],
+  ["v-01560935","/timeline/",{"y":"p","t":"时间轴","I":0},["/timeline/index.html"]],
+  ["v-3fd0d03a","/category/%E6%8C%87%E5%8D%97/",{"y":"p","t":"指南 分类","I":0},["/category/指南/","/category/%E6%8C%87%E5%8D%97/index.html"]],
+]
