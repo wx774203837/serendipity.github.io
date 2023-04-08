@@ -1,0 +1,1 @@
+import{_ as t,W as a,X as n,Y as e,Z as c}from"./framework-a045178c.js";const r={},s=e("h1",{id:"nvm-安装与使用",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#nvm-安装与使用","aria-hidden":"true"},"#"),c(" Nvm 安装与使用")],-1),o=[s];function _(d,i){return a(),n("div",null,o)}const h=t(r,[["render",_],["__file","nvm.html.vue"]]);export{h as default};
