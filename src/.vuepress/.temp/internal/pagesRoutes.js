@@ -1,9 +1,9 @@
 export const pagesRoutes = [
   ["v-184f4da6","/intro.html",{"y":"p","t":"介绍页","i":"info"},["/intro","/intro.md"]],
   ["v-8daa1a0e","/",{"y":"h","t":"主页","i":"home"},["/index.html","/README.md"]],
-  ["v-c00cb85c","/devEnv/nvm.html",{"c":["指南"],"e":"<h1> Nvm 安装与使用</h1>\n","y":"a","t":"Nvm 安装与使用","i":"tool"},["/devEnv/nvm","/devEnv/nvm.md"]],
-  ["v-6ce7f4e2","/start/buildblog.html",{"y":"a","t":"使用 vuepress-theme-hope","i":"tool"},["/start/buildblog","/start/buildblog.md"]],
-  ["v-0bba2201","/start/githubPage.html",{"y":"a","t":"Github Pages","i":"github"},["/start/githubPage","/start/githubPage.md"]],
+  ["v-c00cb85c","/devEnv/nvm.html",{"d":1680912000000,"l":"2023年4月8日","c":["指南"],"e":"<h1> Nvm 安装与使用</h1>\n","r":{"minutes":0.05,"words":15},"y":"a","t":"Nvm 安装与使用","i":"tool"},["/devEnv/nvm","/devEnv/nvm.md"]],
+  ["v-6ce7f4e2","/start/buildblog.html",{"d":1680912000000,"l":"2023年4月8日","c":["指南"],"e":"<h1> 使用 vuepress-theme-hope</h1>\n<p>本文将记录从零开始使用 <a href=\"https://theme-hope.vuejs.press/zh/\" target=\"_blank\" rel=\"noopener noreferrer\">vuepress-theme-hope</a> 构建属于自己的博客。</p>\n<h2> 安装 Node</h2>\n<p>从官网下载 <a href=\"https://nodejs.org/zh-cn/download\" target=\"_blank\" rel=\"noopener noreferrer\">Node</a>, vuepress-theme-hope支持16的某些版本和18以后的版本，保险起见大家直接下最新的18。<br>\n安装完成后再命令行输入 <code>node -v</code> 查看，显示版本号即表示安装成功。<br>\n如果需要管理不同版本的Node,可参考 <a href=\"/devEnv/nvm.html\" target=\"blank\">Nvm安装和使用</a>。</p>","r":{"minutes":1.76,"words":529},"y":"a","t":"使用 vuepress-theme-hope","i":"tool"},["/start/buildblog","/start/buildblog.md"]],
+  ["v-0bba2201","/start/githubPage.html",{"d":1680998400000,"l":"2023年4月9日","c":["指南"],"e":"<h1> Github Pages</h1>\n<p>将博客部署在Github,依赖于创建项目时选择的github workflow工作流。</p>\n<h2> 新建仓库</h2>\n<p>创建一个public仓库， 名称格式为 <code>&lt;USERNAME&gt;.github.io</code>, 部署完后通过<code>https://&lt;USERNAME&gt;.github.io/</code>这个域名来访问站点。</p>\n","r":{"minutes":0.24,"words":71},"y":"a","t":"Github Pages","i":"github"},["/start/githubPage","/start/githubPage.md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},["/404"]],
   ["v-72242504","/devEnv/",{"y":"p","t":"Dev Env"},["/devEnv/index.html"]],
   ["v-d72a4774","/start/",{"y":"p","t":"Start"},["/start/index.html"]],
