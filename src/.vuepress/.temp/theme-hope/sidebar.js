@@ -1,1 +1,1 @@
-export const sidebarData = {"/start/":["buildblog","githubPage"],"/devEnv/":["nvm"]};
+export const sidebarData = {"/start/":["buildblog","githubPage","waline"],"/devEnv/":["nvm"]};

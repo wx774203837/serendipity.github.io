@@ -10,6 +10,7 @@ import clientConfig8 from 'F:/vue-blog/vueBlog/node_modules/.pnpm/registry.npmmi
 import clientConfig9 from 'F:/vue-blog/vueBlog/src/.vuepress/.temp/md-enhance/config.js'
 import clientConfig10 from 'F:/vue-blog/vueBlog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-photo-swipe@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-plugin-photo-swipe/lib/client/config.js'
 import clientConfig11 from 'F:/vue-blog/vueBlog/src/.vuepress/.temp/theme-hope/config.js'
+import clientConfig12 from 'F:/vue-blog/vueBlog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-search-pro@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-plugin-search-pro/lib/client/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -24,4 +25,5 @@ export const clientConfigs = [
   clientConfig9,
   clientConfig10,
   clientConfig11,
+  clientConfig12,
 ]

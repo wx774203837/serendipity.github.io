@@ -99,8 +99,8 @@ export default hopeTheme({
     blog: true,
 
     comment: {
-      // @ts-expect-error: You should generate and use your own comment service
-      provider: "Giscus",
+      provider: "Waline",
+      serverURL:"https://blog-repo-lp4gatved-wx774203837.vercel.app/"
     },
 
     // all features are enabled for demo, only preserve features you need here

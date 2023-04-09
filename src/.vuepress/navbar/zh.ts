@@ -11,7 +11,16 @@ export const zhNavbar = navbar([
         text: "构建博客",
         prefix: "/start/",
         children: [
-          { text: "初始化项目", icon: "tool", link: "buildblog" }
+          { text: "初始化项目", icon: "tool", link: "buildblog" },
+          { text: "Github Pages", icon: "github", link: "githubPage" },
+          { text: "Waline", icon: "mark", link: "waline" }
+        ]
+      },
+      {
+        text: "开发环境",
+        prefix: "/devEnv/",
+        children: [
+          { text: "Nvm", icon: "setting", link: "nvm" },
         ]
       },
     ],

@@ -2,7 +2,9 @@
 icon: tool
 date: 2023-04-08
 category:
-  - 指南
+  - 教程
+tag:
+  - Blog
 ---
 
 # 使用 vuepress-theme-hope
@@ -15,20 +17,20 @@ category:
 
 ## 创建项目
 在命令行窗口运行
-```
+```bash
 npm create vuepress-theme-hope [dir]
 ```
 命令中的dir是一个参数，使用真实的目录名替换。也可以使用
 [pnpm](https://pnpm.io/installation) 或者 [yarn](https://www.yarnpkg.cn/getting-started/install),我使用的是pnpm。  
 初始化过程中会有一些选项让你选择,包管理器选择pnpm,项目类型blog为博客类型网站，docs为文档类型。如果之后你想把网站挂到GitHub Pages上的话，在询问是否创建工作流的地方记得选一下yes。  
 安装完成后，进入项目文件运行：
-```
+```bash
 pnpm run docs:dev
 ```
 
 ## 主页
 使用src目录下的README.md文件来进行配置。
-```
+```yaml
 ---
 home: true
 layout: BlogHome
@@ -75,6 +77,6 @@ footer: 自定义你的页脚文字
 
 ## 项目打包
 先使用下面的命令在本地打包，打完的内容在src/.vuepress/dist目录下：
-```
+```bash
 pnpm run docs:build
 ```
