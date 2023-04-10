@@ -7,6 +7,7 @@ heroText: Serendipity
 heroFullScreen: true
 tagline: 一枚前端菜鸟的技术和生活分享博客
 projects:
+bgImage: /assets/img/bgi.jpg
   # - icon: project
   #   name: 项目名称
   #   desc: 项目详细描述

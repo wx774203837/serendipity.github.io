@@ -9,11 +9,13 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "lvlv",
+    name: "Serendipity",
     url: "https://mrhope.site",
   },
 
-  iconAssets: "iconfont",
+  iconAssets:["iconfont","//at.alicdn.com/t/c/font_4004738_6fj99vj5yc8.css"],
+
+  iconPrefix:"iconfont icon-",
 
   logo: "/avatar.png",
 
@@ -77,7 +79,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
+        description: "工作时长两年半的前端开发者,喜欢玩游戏听音乐",
         intro: "/intro.html",
       },
 

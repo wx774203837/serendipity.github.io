@@ -18,6 +18,8 @@ export const pagesRoutes = [
   ["v-28e050df","/tag/node/",{"y":"p","t":"Node 标签","I":0},["/tag/node/index.html"]],
   ["v-2836033f","/tag/blog/",{"y":"p","t":"Blog 标签","I":0},["/tag/blog/index.html"]],
   ["v-132a6ac4","/tag/github/",{"y":"p","t":"Github 标签","I":0},["/tag/github/index.html"]],
+  ["v-26aa7bf5","/tag/%E6%9C%8D%E5%8A%A1%E5%99%A8/",{"y":"p","t":"服务器 标签","I":0},["/tag/服务器/","/tag/%E6%9C%8D%E5%8A%A1%E5%99%A8/index.html"]],
+  ["v-6d02fe66","/tag/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/",{"y":"p","t":"宝塔面板 标签","I":0},["/tag/宝塔面板/","/tag/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/index.html"]],
   ["v-08f6313a","/tag/vercel/",{"y":"p","t":"Vercel 标签","I":0},["/tag/vercel/index.html"]],
   ["v-50c2828c","/tag/%E6%8F%92%E4%BB%B6/",{"y":"p","t":"插件 标签","I":0},["/tag/插件/","/tag/%E6%8F%92%E4%BB%B6/index.html"]],
 ]

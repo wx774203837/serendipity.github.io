@@ -39,6 +39,10 @@ export const pagesComponents = {
   "v-2836033f": defineAsyncComponent(() => import(/* webpackChunkName: "v-2836033f" */"F:/vue-blog/vueBlog/src/.vuepress/.temp/pages/tag/blog/index.html.vue")),
   // path: /tag/github/
   "v-132a6ac4": defineAsyncComponent(() => import(/* webpackChunkName: "v-132a6ac4" */"F:/vue-blog/vueBlog/src/.vuepress/.temp/pages/tag/github/index.html.vue")),
+  // path: /tag/%E6%9C%8D%E5%8A%A1%E5%99%A8/
+  "v-26aa7bf5": defineAsyncComponent(() => import(/* webpackChunkName: "v-26aa7bf5" */"F:/vue-blog/vueBlog/src/.vuepress/.temp/pages/tag/服务器/index.html.vue")),
+  // path: /tag/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/
+  "v-6d02fe66": defineAsyncComponent(() => import(/* webpackChunkName: "v-6d02fe66" */"F:/vue-blog/vueBlog/src/.vuepress/.temp/pages/tag/宝塔面板/index.html.vue")),
   // path: /tag/vercel/
   "v-08f6313a": defineAsyncComponent(() => import(/* webpackChunkName: "v-08f6313a" */"F:/vue-blog/vueBlog/src/.vuepress/.temp/pages/tag/vercel/index.html.vue")),
   // path: /tag/%E6%8F%92%E4%BB%B6/
