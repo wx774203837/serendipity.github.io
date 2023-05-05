@@ -1,1 +1,1 @@
-export const sidebarData = {"/start/":["buildblog","tencentCloud","githubPage","waline"],"/devEnv/":["nvm"]};
+export const sidebarData = {"/start/":["buildblog","githubPage","waline"],"/devEnv/":["nvm"]};

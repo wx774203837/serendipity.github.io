@@ -19,7 +19,7 @@ export default hopeTheme({
 
   logo: "/avatar.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "",
 
   docsDir: "docs",
 

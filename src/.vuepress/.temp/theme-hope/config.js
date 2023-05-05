@@ -1,13 +1,13 @@
 import { defineClientConfig } from "@vuepress/client";
 
-import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "F:/vue-blog/vueBlog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-theme-hope/lib/client/export.js";
+import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "/Applications/projects/blog/wx774203837.github.io/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-theme-hope/lib/client/export.js";
 
-import { BlogCategory, BlogHome, BlogType, BloggerInfo, Timeline, setupBlog } from "F:/vue-blog/vueBlog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-theme-hope/lib/client/modules/blog/export.js";
-import "F:/vue-blog/vueBlog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-theme-hope/lib/client/modules/blog/styles/layout.scss";
-import { GlobalEncrypt, LocalEncrypt } from "F:/vue-blog/vueBlog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-theme-hope/lib/client/modules/encrypt/export.js";
-import Slide from "F:/vue-blog/vueBlog/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-md-enhance@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-plugin-md-enhance/lib/client/SlidePage.js";
+import { BlogCategory, BlogHome, BlogType, BloggerInfo, Timeline, setupBlog } from "/Applications/projects/blog/wx774203837.github.io/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-theme-hope/lib/client/modules/blog/export.js";
+import "/Applications/projects/blog/wx774203837.github.io/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-theme-hope/lib/client/modules/blog/styles/layout.scss";
+import { GlobalEncrypt, LocalEncrypt } from "/Applications/projects/blog/wx774203837.github.io/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-theme-hope/lib/client/modules/encrypt/export.js";
+import Slide from "/Applications/projects/blog/wx774203837.github.io/node_modules/.pnpm/registry.npmmirror.com+vuepress-plugin-md-enhance@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-plugin-md-enhance/lib/client/SlidePage.js";
 
-import "F:/vue-blog/vueBlog/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-theme-hope/lib/client/styles/index.scss";
+import "/Applications/projects/blog/wx774203837.github.io/node_modules/.pnpm/registry.npmmirror.com+vuepress-theme-hope@2.0.0-beta.201_vuepress@2.0.0-beta.61/node_modules/vuepress-theme-hope/lib/client/styles/index.scss";
 
 export default defineClientConfig({
   enhance: ({ app, router }) => {

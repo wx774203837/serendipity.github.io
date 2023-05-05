@@ -1,6 +1,6 @@
 export const pagesRoutes = [
-  ["v-184f4da6","/intro.html",{"y":"p","t":"介绍页","i":"info"},["/intro","/intro.md"]],
   ["v-8daa1a0e","/",{"y":"h","t":"主页","i":"home"},["/index.html","/README.md"]],
+  ["v-184f4da6","/intro.html",{"y":"p","t":"介绍页","i":"info"},["/intro","/intro.md"]],
   ["v-c00cb85c","/devEnv/nvm.html",{"d":1680912000000,"l":"2023年4月8日","c":["教程"],"g":["Nvm","Node"],"e":"<h1> Nvm 安装与使用</h1>\n<p>nvm 是一个 nodejs 的版本管理工具。通过它可以安装和切换不同版本的 nodejs，解决 node 各种版本存在不兼容现象。</p>\n<h2> 卸载Node (没有安装可跳过此步骤)</h2>\n<p>一定要确保卸载windows上的Nodejs。</p>\n<ul>\n<li>在控制面版或者应用列表中卸载nodejs</li>\n<li>不行就全局搜索然后删除相关文件</li>\n</ul>\n<h2> 下载Nvm</h2>\n<p><a href=\"https://github.com/coreybutler/nvm-windows/releases/tag/1.1.9\" target=\"_blank\" rel=\"noopener noreferrer\">下载地址</a></p>","y":"a","t":"Nvm 安装与使用","i":"tool"},["/devEnv/nvm","/devEnv/nvm.md"]],
   ["v-6ce7f4e2","/start/buildblog.html",{"d":1680912000000,"l":"2023年4月8日","c":["教程"],"g":["Blog"],"e":"<h1> 使用 vuepress-theme-hope</h1>\n<p>本文将记录从零开始使用 <a href=\"https://theme-hope.vuejs.press/zh/\" target=\"_blank\" rel=\"noopener noreferrer\">vuepress-theme-hope</a> 构建属于自己的博客。</p>\n<h2> 安装 Node</h2>\n<p>从官网下载 <a href=\"https://nodejs.org/zh-cn/download\" target=\"_blank\" rel=\"noopener noreferrer\">Node</a>, vuepress-theme-hope支持16的某些版本和18以后的版本，保险起见大家直接下最新的18。<br>\n安装完成后再命令行输入 <code>node -v</code> 查看，显示版本号即表示安装成功。<br>\n如果需要管理不同版本的Node,可参考 <a href=\"/devEnv/nvm.html\" target=\"blank\">Nvm安装和使用</a>。</p>","y":"a","t":"使用 vuepress-theme-hope","i":"tool"},["/start/buildblog","/start/buildblog.md"]],
   ["v-0bba2201","/start/githubPage.html",{"d":1680998400000,"l":"2023年4月9日","c":["教程"],"g":["Github"],"e":"<h1> Github Pages</h1>\n<p>将博客部署在Github,依赖于创建项目时选择的github workflow工作流。</p>\n<h2> 新建仓库</h2>\n<p>创建一个public仓库， 名称格式为 <code>&lt;USERNAME&gt;.github.io</code>, 部署完后通过<code>https://&lt;USERNAME&gt;.github.io/</code>这个域名来访问站点。</p>\n<h2> 修改配置</h2>\n<p>在github仓库中点击Settings选项卡，选择Actions下的General,在 Workflow permissions中选择读写权限 Read and write permissions后，点击保存。</p>","y":"a","t":"Github Pages","i":"github"},["/start/githubPage","/start/githubPage.md"]],
@@ -18,8 +18,6 @@ export const pagesRoutes = [
   ["v-28e050df","/tag/node/",{"y":"p","t":"Node 标签","I":0},["/tag/node/index.html"]],
   ["v-2836033f","/tag/blog/",{"y":"p","t":"Blog 标签","I":0},["/tag/blog/index.html"]],
   ["v-132a6ac4","/tag/github/",{"y":"p","t":"Github 标签","I":0},["/tag/github/index.html"]],
-  ["v-26aa7bf5","/tag/%E6%9C%8D%E5%8A%A1%E5%99%A8/",{"y":"p","t":"服务器 标签","I":0},["/tag/服务器/","/tag/%E6%9C%8D%E5%8A%A1%E5%99%A8/index.html"]],
-  ["v-6d02fe66","/tag/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/",{"y":"p","t":"宝塔面板 标签","I":0},["/tag/宝塔面板/","/tag/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/index.html"]],
   ["v-08f6313a","/tag/vercel/",{"y":"p","t":"Vercel 标签","I":0},["/tag/vercel/index.html"]],
   ["v-50c2828c","/tag/%E6%8F%92%E4%BB%B6/",{"y":"p","t":"插件 标签","I":0},["/tag/插件/","/tag/%E6%8F%92%E4%BB%B6/index.html"]],
 ]
