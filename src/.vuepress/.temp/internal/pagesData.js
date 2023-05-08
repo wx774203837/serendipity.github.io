@@ -11,12 +11,18 @@ export const pagesData = {
   "v-0bba2201": () => import(/* webpackChunkName: "v-0bba2201" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/start/githubPage.html.js").then(({ data }) => data),
   // path: /start/waline.html
   "v-fb378c56": () => import(/* webpackChunkName: "v-fb378c56" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/start/waline.html.js").then(({ data }) => data),
+  // path: /exercise/css/bfc.html
+  "v-513103a4": () => import(/* webpackChunkName: "v-513103a4" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/exercise/css/bfc.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /devEnv/
   "v-72242504": () => import(/* webpackChunkName: "v-72242504" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/devEnv/index.html.js").then(({ data }) => data),
   // path: /start/
   "v-d72a4774": () => import(/* webpackChunkName: "v-d72a4774" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/start/index.html.js").then(({ data }) => data),
+  // path: /exercise/css/
+  "v-16aa43ec": () => import(/* webpackChunkName: "v-16aa43ec" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/exercise/css/index.html.js").then(({ data }) => data),
+  // path: /exercise/
+  "v-53f8e304": () => import(/* webpackChunkName: "v-53f8e304" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/exercise/index.html.js").then(({ data }) => data),
   // path: /category/
   "v-5bc93818": () => import(/* webpackChunkName: "v-5bc93818" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/category/index.html.js").then(({ data }) => data),
   // path: /tag/
@@ -31,6 +37,8 @@ export const pagesData = {
   "v-4f7b1987": () => import(/* webpackChunkName: "v-4f7b1987" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/category/教程/index.html.js").then(({ data }) => data),
   // path: /tag/nvm/
   "v-b30a1710": () => import(/* webpackChunkName: "v-b30a1710" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/tag/nvm/index.html.js").then(({ data }) => data),
+  // path: /category/%E9%9D%A2%E8%AF%95/
+  "v-116a43a7": () => import(/* webpackChunkName: "v-116a43a7" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/category/面试/index.html.js").then(({ data }) => data),
   // path: /tag/node/
   "v-28e050df": () => import(/* webpackChunkName: "v-28e050df" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/tag/node/index.html.js").then(({ data }) => data),
   // path: /tag/blog/
@@ -41,4 +49,6 @@ export const pagesData = {
   "v-08f6313a": () => import(/* webpackChunkName: "v-08f6313a" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/tag/vercel/index.html.js").then(({ data }) => data),
   // path: /tag/%E6%8F%92%E4%BB%B6/
   "v-50c2828c": () => import(/* webpackChunkName: "v-50c2828c" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/tag/插件/index.html.js").then(({ data }) => data),
+  // path: /tag/css/
+  "v-b3142c4c": () => import(/* webpackChunkName: "v-b3142c4c" */"/Applications/projects/blog/wx774203837.github.io/src/.vuepress/.temp/pages/tag/css/index.html.js").then(({ data }) => data),
 }

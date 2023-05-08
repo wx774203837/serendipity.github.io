@@ -17,4 +17,20 @@ export const zhSidebar = sidebar({
       collapsible: true
     },
   ],
+  "/exercise/":[
+    {
+      text: "css",
+      icon: "css",
+      prefix: "css/",
+      children: "structure",
+      collapsible: true
+    },
+    {
+      text: "javascript",
+      icon: "css",
+      prefix: "javascript/",
+      children: "structure",
+      collapsible: true
+    },
+  ]
 });

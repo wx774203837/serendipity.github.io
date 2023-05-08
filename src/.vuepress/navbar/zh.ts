@@ -24,5 +24,6 @@ export const zhNavbar = navbar([
         ]
       },
     ],
-  }
+  },
+  { text: '八股文', icon: 'exercise', link: '/exercise/css/bfc.html' }
 ]);
